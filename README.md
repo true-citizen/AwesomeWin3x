@@ -30,6 +30,6 @@ I decided to compile list of such software so you can find such much smoothly.
 * WinLlama-3.x(https://github.com/RetroGamer02/WinLlama-3.x) - Win16 client for Ollama server.
 * WIN4XLDR(https://github.com/pufengdu/WIN3XLDR) - Windows 3.x loader for MS-DOS 7.10/8.0
 * Quake for Windows 3.1x(https://github.com/bcc2528/quakegeneric-Win31) - port of quake for windows 3.1x
-
+* OpenFear(https://github.com/ifcaro/OpenFear) - Athrosfear port to Windows 3.1x
 ==
 Warning: I am not in any way related to any developers listed in repository. All software you install you use on your own risk. I am not responsible if your 80486 catches fire or something. There could be real gems of engineering and blatant unstable slop 
